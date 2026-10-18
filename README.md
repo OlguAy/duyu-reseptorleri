@@ -2,7 +2,7 @@
 
 Hazırlayanlar: Olgu Ay ve Ayşe Çelik Ay.
 
-Bu depo yalnızca hazır web dosyalarını, yayın doğrulamasını ve kılavuzu içerir. Kaynak proje ve Windows EXE paketi ayrı teslim edilir.
+Bu depo hazır uygulama arşivini (web-app.zip), iki içerik dosyasını ve yayın doğrulamasını içerir. Yayın işlemi arşivi otomatik açar; web-app.zip dosyasını normal içerik güncellemesinde değiştirmeyin. Kaynak proje ve Windows EXE paketi ayrı teslim edilir.
 
 ## İlk kurulum
 1. Depo sahibi Settings > General > Template repository seçeneğini açar.
@@ -29,4 +29,4 @@ Kopyalar bağımsızdır. Bu depodaki sonraki değişiklikler öğrenci kopyası
 ## ZIP ile alternatif kurulum
 ZIP'i tamamen çıkarın. Yeni Public depo oluşturun. ZIP dosyasını değil, içindeki dosyaları ve klasörleri yükleyin. Gizli .github/workflows/pages.yml klasörünün de yüklenmesi gerekir; gizli klasör atlandıysa GitHub'da Add file > Create new file ile .github/workflows/pages.yml oluşturup paketteki metni aynen yapıştırın. Yukarıdaki Pages adımlarını uygulayın. Template yöntemi gizli dosyaları da kopyaladığı için daha kolaydır.
 
-Ekran görüntülü kılavuz: [kilavuz/index.html](kilavuz/index.html).
+Ekran görüntülü kılavuz için kendi çalışan web adresinizin sonuna kilavuz/index.html ekleyin.

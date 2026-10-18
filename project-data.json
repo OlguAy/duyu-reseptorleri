@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-18T20:28:14.559Z",
+  "content": {
+    "eye.organ": {
+      "eyebrow": "1. AŞAMA · DUYU ORGANI",
+      "title": "Işığın göz içindeki yolculuğu",
+      "description": "Görme, çevreden gelen ışığın göz tarafından alınmasıyla başlar. Işık kornea, göz bebeği ve mercekten geçerek retinaya ulaşır.",
+      "bullets": [
+        "Uyaran: Işık",
+        "Duyu organı: Göz",
+        "Hedef bölge: Retina"
+      ]
+    },
+    "eye.receptor": {
+      "eyebrow": "2. AŞAMA · RESEPTÖR",
+      "title": "Retinadaki fotoreseptörler",
+      "description": "Retinadaki çubuk ve koni hücreleri ışığa duyarlı fotoreseptörlerdir. Işık uyaranının sinirsel sinyale dönüştürülmesinde görev alırlar.",
+      "bullets": [
+        "Reseptör tipi: Fotoreseptör",
+        "Konum: Retina",
+        "Temel hücreler: Çubuk ve koni"
+      ]
+    },
+    "eye.neuron": {
+      "eyebrow": "3. AŞAMA · NÖRON",
+      "title": "Elektriksel iletinin taşınması",
+      "description": "Reseptörde oluşan sinirsel sinyal nöron boyunca taşınır. İleti, hücre gövdesinden aksona ve akson uçlarına doğru ilerler.",
+      "bullets": [
+        "Dendrit: Uyarının alınmasına katkı sağlar",
+        "Akson: İletinin taşındığı uzun uzantıdır",
+        "Miyelin kılıf: İletimin hızlanmasına katkı sağlar"
+      ]
+    },
+    "eye.synapse": {
+      "eyebrow": "4. AŞAMA · SİNAPTİK İLETİM",
+      "title": "Nöronlar arasındaki kimyasal iletim",
+      "description": "Akson ucuna ulaşan sinirsel ileti, nörotransmitterlerin sinaptik aralığa salınmasını sağlar. Bu kimyasal maddeler sonraki hücrenin zarındaki reseptörlere bağlanarak iletinin aktarılmasına katkı sağlar.",
+      "bullets": [
+        "Akson ucu: Nörotransmitterlerin salındığı bölge",
+        "Sinaptik aralık: İki hücre arasındaki boşluk",
+        "Nörotransmitter: Hücreler arası iletişimde görev alan kimyasal madde"
+      ]
+    },
+    "ear.organ": {
+      "eyebrow": "1. AŞAMA · DUYU ORGANI",
+      "title": "Sesin kulak içindeki yolculuğu",
+      "description": "Ses dalgaları dış kulak tarafından alınır. Titreşim kulak zarına ulaşır, orta kulaktaki kemikçikler üzerinden iç kulağa aktarılır ve salyangozdaki sıvı hareketini oluşturur.",
+      "bullets": [
+        "Uyaran: Ses titreşimleri",
+        "Duyu organı: Kulak",
+        "Hedef bölge: İç kulak / salyangoz"
+      ]
+    },
+    "ear.receptor": {
+      "eyebrow": "2. AŞAMA · RESEPTÖR",
+      "title": "Kulaktaki mekanoreseptörler",
+      "description": "Mekanoreseptörler; dokunma, basınç, gerilme, hareket ve ses dalgaları gibi mekanik enerji formlarının oluşturduğu fiziksel değişimleri algılar. Bu reseptörler deri ve kulak yapısında yer alır.",
+      "bullets": [
+        "Reseptör tipi: Mekanoreseptör",
+        "Bulunduğu yapılar: Deri ve kulak",
+        "Kulakta algılanan uyaran: Ses dalgaları"
+      ]
+    },
+    "ear.neuron": {
+      "eyebrow": "3. AŞAMA · NÖRON",
+      "title": "Elektriksel iletinin taşınması",
+      "description": "Reseptör düzeyinde oluşan sinirsel sinyal nöron boyunca taşınır. Miyelinli bölgelerde ileti Ranvier boğumları arasında sıçrayarak ilerler.",
+      "bullets": [
+        "Eşik altında impuls oluşmaz",
+        "Miyelin kılıf iletimin hızlanmasına katkı sağlar",
+        "İleti akson ucuna doğru ilerler"
+      ]
+    },
+    "ear.synapse": {
+      "eyebrow": "4. AŞAMA · SİNAPTİK İLETİM",
+      "title": "Nöronlar arasındaki kimyasal iletim",
+      "description": "Akson ucuna ulaşan sinirsel ileti, nörotransmitterlerin sinaptik aralığa salınmasını sağlar. Nörotransmitterler sonraki hücrenin zarındaki reseptörlere bağlanarak iletinin aktarılmasına katkı sağlar.",
+      "bullets": [
+        "Akson ucu: Nörotransmitterlerin salındığı bölge",
+        "Sinaptik aralık: İki hücre arasındaki boşluk",
+        "Nörotransmitter: Hücreler arası iletişimde görev alan kimyasal madde"
+      ]
+    },
+    "nose.organ": {
+      "eyebrow": "1. AŞAMA · DUYU ORGANI",
+      "title": "Koku moleküllerinin yolculuğu",
+      "description": "Havayla taşınan koku molekülleri burun boşluğuna girer. Burun boşluğunun üst bölümündeki koku bölgesine ulaşır ve mukus tabakasında çözünerek reseptörlerle etkileşir.",
+      "bullets": [
+        "Uyaran: koku molekülleri.",
+        "Duyu organı: burun.",
+        "Hedef: burun boşluğunun üstündeki koku epiteli.",
+        "Koku duyusu kimyasal uyaranlarla başlar."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 36 ve 84; NIH/NIDCD, How does your sense of smell work?"
+    },
+    "nose.receptor": {
+      "eyebrow": "2. AŞAMA · KOKU RESEPTÖRÜ",
+      "title": "Koku reseptörü bir duyu nöronudur",
+      "description": "Koku reseptör nöronlarının silleri mukus tabakasına uzanır. Moleküllerin reseptör proteinleriyle etkileşmesi elektriksel değişimi başlatır. Yeterli uyarılma impuls oluşturur; sinyal koku soğancığına ve daha sonra beynin ilgili bölgelerine iletilir.",
+      "bullets": [
+        "Reseptör sınıfı: kemoreseptör.",
+        "Hücre yapısı: koku reseptör nöronu.",
+        "Bir koku, farklı reseptörlerin etkinlik örüntüsüyle ayırt edilebilir.",
+        "Görseldeki renkler ve üç hücre, mekanizmayı anlatan temsili bir modeldir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 36 ve 84; NIH/NIDCD, Smell Disorders."
+    },
+    "nose.neuron": {
+      "eyebrow": "3. AŞAMA · NÖRON",
+      "title": "Uyarının sinirsel iletiye dönüşmesi",
+      "description": "Reseptörde başlayan sinyal duyu nöronlarıyla merkezi sinir sistemine taşınır. Burada ortak bir miyelinli nöron modeli kullanılır; bütün duyu lifleri aynı yapıda değildir.",
+      "bullets": [
+        "Model eşiği 35: gerçek bir fizyolojik ölçüm değildir.",
+        "Eşik altında modelde impuls oluşmaz.",
+        "Aynı nöronda güçlü uyaran daha sık impuls oluşturabilir; tek impulsun büyüklüğü ve iletim hızı artmaz.",
+        "Miyelinli liflerde ileti Ranvier boğumları arasında sıçrayarak ilerler."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 49–56. Görsel, ortak bir miyelinli nöronun öğretim modelidir."
+    },
+    "nose.synapse": {
+      "eyebrow": "4. AŞAMA · SİNAPTİK İLETİM",
+      "title": "Bir sonraki hücreye aktarım",
+      "description": "İleti akson ucuna ulaştığında nörotransmitterler sinaptik aralığa salınır. Sonraki hücrenin reseptörlerine bağlanmaları, hücreler arasındaki iletişimi sağlar. Duyunun yorumlanması merkezi sinir sisteminde gerçekleşir.",
+      "bullets": [
+        "Akson ucunda nörotransmitter salınır.",
+        "Nörotransmitter sinaptik aralığı geçer.",
+        "Sonraki hücredeki uygun reseptöre bağlanır.",
+        "Şema duyu yolunun bütün bağlantılarını değil, tek bir kimyasal sinapsı gösterir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 60–64 ve 81–84."
+    },
+    "tongue.organ": {
+      "eyebrow": "1. AŞAMA · DUYU ORGANI",
+      "title": "Tat maddeleri tükürükte çözünür",
+      "description": "Besinlerden açığa çıkan tat maddeleri tükürükte çözünerek tat tomurcuklarındaki reseptör hücrelerine ulaşır. Dil yüzeyindeki bazı papillalarda tat tomurcukları bulunur.",
+      "bullets": [
+        "Uyaran: çözünmüş kimyasal maddeler.",
+        "Temel tatlar: tatlı, tuzlu, ekşi, acı ve umami.",
+        "Tatlar dilin tek bir bölgesine özgü değildir.",
+        "Acı biberin yakıcılığı, temel tat olan acılıkla aynı duyum değildir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 36 ve 84; NIH/NIDCD, How does your sense of taste work?"
+    },
+    "tongue.receptor": {
+      "eyebrow": "2. AŞAMA · TAT TOMURCUĞU",
+      "title": "Tat hücresinden duyu nöronuna",
+      "description": "Tat tomurcuğundaki özelleşmiş duyu epitel hücreleri çözünmüş tat maddeleriyle uyarılır. Bu hücreler duyu nöronlarına sinyal aktarır. Tat hücresi ile koku reseptör nöronu aynı hücre tipi değildir.",
+      "bullets": [
+        "Reseptör sınıfı: kemoreseptör.",
+        "Yapı: tat tomurcuğundaki reseptör hücreleri.",
+        "Tat gözeneği üzerinden çözünmüş maddeler hücrelerin alıcı yüzeyine ulaşır.",
+        "Tat hücresi → duyu nöronu → merkezi sinir sistemi."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 84; NIH/NIDCD, Taste Disorders."
+    },
+    "tongue.neuron": {
+      "eyebrow": "3. AŞAMA · NÖRON",
+      "title": "Uyarının sinirsel iletiye dönüşmesi",
+      "description": "Reseptörde başlayan sinyal duyu nöronlarıyla merkezi sinir sistemine taşınır. Burada ortak bir miyelinli nöron modeli kullanılır; bütün duyu lifleri aynı yapıda değildir.",
+      "bullets": [
+        "Model eşiği 35: gerçek bir fizyolojik ölçüm değildir.",
+        "Eşik altında modelde impuls oluşmaz.",
+        "Aynı nöronda güçlü uyaran daha sık impuls oluşturabilir; tek impulsun büyüklüğü ve iletim hızı artmaz.",
+        "Miyelinli liflerde ileti Ranvier boğumları arasında sıçrayarak ilerler."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 49–56. Görsel, ortak bir miyelinli nöronun öğretim modelidir."
+    },
+    "tongue.synapse": {
+      "eyebrow": "4. AŞAMA · SİNAPTİK İLETİM",
+      "title": "Bir sonraki hücreye aktarım",
+      "description": "İleti akson ucuna ulaştığında nörotransmitterler sinaptik aralığa salınır. Sonraki hücrenin reseptörlerine bağlanmaları, hücreler arasındaki iletişimi sağlar. Duyunun yorumlanması merkezi sinir sisteminde gerçekleşir.",
+      "bullets": [
+        "Akson ucunda nörotransmitter salınır.",
+        "Nörotransmitter sinaptik aralığı geçer.",
+        "Sonraki hücredeki uygun reseptöre bağlanır.",
+        "Şema duyu yolunun bütün bağlantılarını değil, tek bir kimyasal sinapsı gösterir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 60–64 ve 81–84."
+    },
+    "skin.organ": {
+      "eyebrow": "1. AŞAMA · DUYU ORGANI",
+      "title": "Deride farklı uyaranlar algılanır",
+      "description": "Derideki duyu yapıları yüzeye yakın bölgelerde ve daha derin dokularda bulunur. Mekanik etkiler, sıcaklık değişimleri ve doku hasarına yol açabilecek uyaranlar farklı reseptörlerce algılanır.",
+      "bullets": [
+        "Üstte epidermis, altında dermis ve daha derinde deri altı doku bulunur.",
+        "Dokunma ve basınç: mekanik uyaran.",
+        "Sıcaklık değişimi: termal uyaran.",
+        "Zarar verici veya zarar verme potansiyeli olan uyaran: nosiseptörleri etkinleştirebilir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 35, 37 ve 84; Purves ve diğerleri, Neuroscience, The Somatic Sensory System."
+    },
+    "skin.receptor": {
+      "eyebrow": "2. AŞAMA · DERİ RESEPTÖRLERİ",
+      "title": "Uyaranı uygun reseptörle eşleştir",
+      "description": "Mekanoreseptörler dokunma ve basınç gibi fiziksel değişimleri, termoreseptörler sıcaklık değişimlerini algılar. Nosiseptörler doku hasarı riski taşıyan mekanik, termal veya kimyasal uyaranlara yanıt verebilir.",
+      "bullets": [
+        "Mekanoreseptör: dokunma, basınç, titreşim ve gerilme.",
+        "Termoreseptör: sıcaklık değişimi.",
+        "Nosiseptör: zarar verici uyaranların algılanması; ağrı deneyimi merkezi işlemeyi de gerektirir.",
+        "Reseptörler serbest sinir uçları veya kapsüllü yapılarla ilişkili olabilir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 35, 37 ve 84; Neuroscience, The Somatic Sensory System."
+    },
+    "skin.neuron": {
+      "eyebrow": "3. AŞAMA · NÖRON",
+      "title": "Uyarının sinirsel iletiye dönüşmesi",
+      "description": "Reseptörde başlayan sinyal duyu nöronlarıyla merkezi sinir sistemine taşınır. Burada ortak bir miyelinli nöron modeli kullanılır; bütün duyu lifleri aynı yapıda değildir.",
+      "bullets": [
+        "Model eşiği 35: gerçek bir fizyolojik ölçüm değildir.",
+        "Eşik altında modelde impuls oluşmaz.",
+        "Aynı nöronda güçlü uyaran daha sık impuls oluşturabilir; tek impulsun büyüklüğü ve iletim hızı artmaz.",
+        "Miyelinli liflerde ileti Ranvier boğumları arasında sıçrayarak ilerler."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 49–56. Görsel, ortak bir miyelinli nöronun öğretim modelidir."
+    },
+    "skin.synapse": {
+      "eyebrow": "4. AŞAMA · SİNAPTİK İLETİM",
+      "title": "Bir sonraki hücreye aktarım",
+      "description": "İleti akson ucuna ulaştığında nörotransmitterler sinaptik aralığa salınır. Sonraki hücrenin reseptörlerine bağlanmaları, hücreler arasındaki iletişimi sağlar. Duyunun yorumlanması merkezi sinir sisteminde gerçekleşir.",
+      "bullets": [
+        "Akson ucunda nörotransmitter salınır.",
+        "Nörotransmitter sinaptik aralığı geçer.",
+        "Sonraki hücredeki uygun reseptöre bağlanır.",
+        "Şema duyu yolunun bütün bağlantılarını değil, tek bir kimyasal sinapsı gösterir."
+      ],
+      "sourceNote": "Kaynak: proje sunumu, s. 60–64 ve 81–84."
+    }
+  },
+  "game": {
+    "questions": [
+      {
+        "id": "ornek-1",
+        "text": "Gözde ışığı algılayan fotoreseptörler nerede bulunur?",
+        "options": [
+          "Retinada",
+          "Korneada",
+          "Göz kapağında",
+          "İriste",
+          "Göz kaslarında"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "ornek-2",
+        "text": "Çubuk hücrelerinin temel özelliklerinden biri hangisidir?",
+        "options": [
+          "Loş ışıkta görmeye katkı sağlamak",
+          "Ses titreşimlerini algılamak",
+          "Tat maddelerini çözmek",
+          "Derinin sıcaklığını ayarlamak",
+          "Kokuyu yorumlamak"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "ornek-3",
+        "text": "Ses titreşimleri orta kulakta hangi yapılar üzerinden aktarılır?",
+        "options": [
+          "Tat hücreleri",
+          "Kemikçikler",
+          "Koni hücreleri",
+          "Koku silleri",
+          "Deri bezleri"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "ornek-4",
+        "text": "İşitmeyle ilgili duyu hücreleri hangi yapıda bulunur?",
+        "options": [
+          "Kulak kepçesi",
+          "Dış kulak yolu",
+          "Salyangoz",
+          "Kulak memesi",
+          "Östaki borusu"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "ornek-5",
+        "text": "Koku moleküllerinin reseptörlerle etkileşebilmesi için önce hangi ortamda çözünmesi gerekir?",
+        "options": [
+          "Gözyaşında",
+          "Kanda",
+          "Ter içinde",
+          "Burundaki mukusta",
+          "Kemik dokuda"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "ornek-6",
+        "text": "Tat maddelerinin tat hücrelerine ulaşmasında hangisi rol oynar?",
+        "options": [
+          "Tükürükte çözünme",
+          "Kulak zarının titreşmesi",
+          "Retinaya odaklanma",
+          "Miyelin üretimi",
+          "Deri pigmentleri"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "ornek-7",
+        "text": "Dilde tatların algılanmasıyla ilgili hangi ifade uygundur?",
+        "options": [
+          "Her tat yalnızca tek bir dil bölgesinde algılanır",
+          "Dilde sadece tatlı ve tuzlu algılanır",
+          "Tatlar dilde tek bir bölgeye özgü değildir",
+          "Umami bir temel tat değildir",
+          "Tat hücreleri ses dalgasını algılar"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "ornek-8",
+        "text": "Deride sıcaklık değişimlerini algılayan reseptör grubu hangisidir?",
+        "options": [
+          "Fotoreseptörler",
+          "Kemoreseptörler",
+          "İşitme hücreleri",
+          "Termoreseptörler",
+          "Koni hücreleri"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "ornek-9",
+        "text": "Bu projedeki miyelinli nöron modelinde eşik aşıldığında uyarı şiddeti artırılırsa ne olur?",
+        "options": [
+          "Tek impuls büyür",
+          "İletim hızı sürekli artar",
+          "Miyelin kaybolur",
+          "İmpulslar ters yönde gider",
+          "İmpulsların oluşma sıklığı artar"
+        ],
+        "correctIndex": 4
+      },
+      {
+        "id": "ornek-10",
+        "text": "Kimyasal sinapsta hücreler arasında sinyal aktarımına hangi maddeler katılır?",
+        "options": [
+          "Nörotransmitterler",
+          "Tükürük enzimleri",
+          "Deri pigmentleri",
+          "Kulak kemikçikleri",
+          "Gözyaşı tuzları"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "phrases": [
+      "Bir daha düşün!",
+      "Sonraki engelde toparlarız!"
+    ],
+    "successPhrases": [
+      "Harika!",
+      "Çok iyi!",
+      "İşte bu!"
+    ],
+    "evaluations": [
+      {
+        "id": "eval1",
+        "min": 0,
+        "max": 39.99,
+        "text": "Biraz daha tekrar"
+      },
+      {
+        "id": "eval2",
+        "min": 40,
+        "max": 69.99,
+        "text": "Gelişiyorsun"
+      },
+      {
+        "id": "eval3",
+        "min": 70,
+        "max": 100,
+        "text": "Çok başarılı"
+      }
+    ]
+  }
+}
